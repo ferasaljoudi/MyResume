@@ -1,4 +1,4 @@
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 800px) {
     .skills {
         border: 1.5px solid black;
         width: 90%;
@@ -28,7 +28,7 @@
             margin-bottom: 5px;
         }
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 800px) {
     .skills {
     background-position: center;
     background-size: cover;

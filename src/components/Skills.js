@@ -15,17 +15,17 @@ function Skills() {
       <ul>
         <li><b>Programming Languages:</b>
           <ul style={{ listStyleType: 'square' }}>
-            <li><SiCplusplus size={30} /> C++ <SiCodio size={25}/> C <FaJava size={30} /> Java <FaPython size={30} /> Python</li>
+            <li><SiCplusplus size={25} />C++ <SiCodio size={25}/>C <FaJava size={25} />Java <FaPython size={25} />Python</li>
           </ul>
         </li>
         <li><b>Web Development:</b>
           <ul style={{ listStyleType: 'square' }}>
-            <li><TiHtml5 size={35} /> HTML <BiSolidFileCss size={35} /> CSS <FaReact size={30} /> React</li>
+            <li><TiHtml5 size={25} />HTML <BiSolidFileCss size={25} />CSS <FaReact size={25} />React</li>
           </ul>
         </li>
         <li><b>Database Management:</b>
           <ul style={{ listStyleType: 'square' }}>
-            <li><AiOutlineConsoleSql size={35} /> SQL <SiMysql size={40} /> MySQL</li>
+            <li><AiOutlineConsoleSql size={25} />SQL <SiMysql size={25} />MySQL</li>
           </ul>
         </li>
         <li><b>Software Development:</b>

@@ -22,14 +22,14 @@ function Header() {
         <div className="header-section right">
           <h1 id='contact'>Contact</h1>
           <hr></hr>
-          <p><MdEmail size="25"/> : feras.aljoudi@gmail.com</p>
-          <p><BsFillTelephoneForwardFill size="22"/> : (306)209-1033</p>
-          <p><FaHome size="25"/> : 201-1281 McEachern Dr.</p>
+          <p><MdEmail id='MdEmail'/> : feras.aljoudi@gmail.com</p>
+          <p><BsFillTelephoneForwardFill id='BsFillTelephoneForwardFill'/> : (306)209-1033</p>
+          <p><FaHome id='FaHome'/> : 201-1281 McEachern Dr.</p>
           <p>Regina, Sk S4X 0N3</p>
           {/* <hr></hr> */}
-          <p><AiOutlineGithub size="30"/>
+          <p><AiOutlineGithub id='AiOutlineGithub'/>
             <a href="https://github.com/ferasaljoudi" target="_blank" rel="noopener noreferrer" style={{ marginRight: '15px' }}>GitHub</a>
-            <FaLinkedin size="30" />
+            <FaLinkedin id='FaLinkedin' />
 
             <a href="https://ca.linkedin.com/in/feras-al-joudi-539727242" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </p>

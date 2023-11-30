@@ -19,10 +19,11 @@ function Experience() {
             <div className="accordion-body">
               <p>Agriculture & Agri-Food Canada, Remote (Sep 2022 - Apr 2023)</p>
               <ul>
-                <li>Documenting software tools and workflows.</li>
+                <li>Comprehensive documentation of software tools and workflows.</li>
                 <li>Generating dot plots using Gnuplot software and Mummer software in Linux.</li>
-                <li>Identifying genetic variants using C++, Java, and Python languages.</li>
-                <li>Data analysis by comparing two sequences.</li>
+                <li>Genetic variant identification using C++, Java, and Python languages.</li>
+                <li>Advanced Data Analysis through Sequence Comparison.</li>
+                <li>Impact on public health through Bioinformatics.</li>
               </ul>
             </div>
           </div>
@@ -42,6 +43,7 @@ function Experience() {
                 <li>Contacting various vendors and purchasing the required equipment through emails.</li>
                 <li>Preparing Excel sheets and PowerPoint presentations in Microsoft 365.</li>
                 <li>Identifying the scope of work with the contractor while visiting the field.</li>
+                <li>Uninstalling relays and switches and salvaging them in the proper containers.</li>
               </ul>
             </div>
           </div>
@@ -62,6 +64,7 @@ function Experience() {
                 <li>Analyzing the business based on the top sellers in the store and the company.</li>
                 <li>Managing the wage cost for the store.</li>
                 <li>Assisting customers and making sure they were satisfied before they left the store.</li>
+                <li>Performing partnership with other banners.</li>
               </ul>
             </div>
           </div>

@@ -9,24 +9,24 @@ export default function Projects() {
 
   return (
     <section className='projects'>
-      <h2><FaProjectDiagram size={30}/> Projects</h2>
+      <h2><FaProjectDiagram size={28}/> Projects</h2>
       <br></br>
       <Tabs>
         <TabList className='tabList'>
           <Tab _hover={{bg: "white"}}
-          _selected={{ bg: "gray", color: "black"}}>
+          _selected={{ bg: "gray", color: "black", borderRadius: "20px"}}>
             <b>Simon Game</b></Tab>
           <Tab _hover={{bg: "white"}}
-          _selected={{ bg: "gray", color: "black"}}>
+          _selected={{ bg: "gray", color: "black", borderRadius: "20px"}}>
             <b>Classes Schedule</b></Tab>
           <Tab _hover={{bg: "white"}}
-          _selected={{ bg: "gray", color: "black"}}>
+          _selected={{ bg: "gray", color: "black", borderRadius: "20px"}}>
             <b>SKDCA Website</b></Tab>
         </TabList>
 
         <TabPanels className='projectDetails'>
           <TabPanel>
-            <p>Individual project for ENSE352 class (C Programming)</p>
+            <p className="firstP">Individual project for ENSE352 class (C Programming)</p>
             <ul>
               <li>Engineered a Simon Game using C on Keil uVision for the ENSE352 class, incorporating an STM32F103 Nucleo Board for hardware interfacing.</li>
               <li>Designed game logic to run 10 levels of increasing difficulty, with visual feedback provided through a system of 4 LEDs and a separate fail indicator LED.
@@ -37,7 +37,7 @@ export default function Projects() {
             <p className="secondP">To view full details: <a href="https://github.com/ferasaljoudi/SimonGame" target="_blank" rel="noopener noreferrer">SimonGame</a></p> 
           </TabPanel>
           <TabPanel>
-          <p>Individual project for ENEL384 class (VHDL)</p>
+          <p className="firstP">Individual project for ENEL384 class (VHDL)</p>
           <ul>
             <li>Conceptualized and developed a synchronous digital circuit for class scheduling on a BASYS-3 FPGA board.</li>
             <li>Programmed using VHDL in Vivado to control display logic, including class, lab, seminar, midterm, 
@@ -52,8 +52,8 @@ export default function Projects() {
           <p className="secondP">To view full details: <a href="https://github.com/ferasaljoudi/ClassesSchedule" target="_blank" rel="noopener noreferrer">ClassesSchedule</a></p> 
           </TabPanel>
           <TabPanel>
-            <p>Web Developer (Team Project)</p>
-            <p>Saskatchewan Career Development Association (SKCDA) Website</p>
+            <p className="firstP">Team Project for Saskatchewan Career Development Association (SKCDA)</p>
+            <p className="firstP">Developing a Website (Wordpress and Elementor)</p>
             <ul>
             <li>Collaborated with a team to design and launch a WordPress-based website aimed at supporting 
               Career Development Practitioners across Saskatchewan.</li>
