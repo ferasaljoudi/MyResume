@@ -1,0 +1,94 @@
+@media only screen and (max-width: 768px) {
+    .projects {
+        border: 1.5px solid black;
+        width: 90%;
+        padding: 10px;
+        margin-top: 1px;
+        margin-bottom: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .projects h2 {
+        background-color: rgb(178, 182, 186);
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 15px;
+        color: #000000; 
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .tabList {
+        font-size: 13px;
+        margin-top: 1px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: center;
+        size: 50px;
+    }
+    .projectDetails p {
+        text-align: center;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .secondP {
+        font-size: 10px;
+        font-weight: 500;
+    }
+    .projectDetails ul {
+        font-size: 17px;
+        color: black;
+        font-weight: 400;
+    }
+    a {
+        font-size: 18px;
+    }
+    a:hover {
+        color: #ff1ef8;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .projects {
+    margin-top: 1px;
+    margin-bottom: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 50px;
+    border: 1.5px solid black;
+    width: 44%;
+    }
+    .projects h2 {
+        background-color: rgb(178, 182, 186);
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 15px;
+        color: #000000; 
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .tabList {
+        font-size: 20px;
+        margin-top: 1px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: center;
+        size: 50px;
+    }
+    .projectDetails p {
+        text-align: center;
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .secondP {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .projectDetails ul {
+        font-size: 21px;
+        color: black;
+        font-weight: 400;
+    }
+    a:hover {
+        color: #ff1ef8;
+    }
+}

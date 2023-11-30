@@ -1,0 +1,49 @@
+@media only screen and (max-width: 768px) {
+  .App {
+    flex-direction: column;
+  }
+  body {
+    width: 100%;
+  }
+
+  .top-section {
+    width: 100%;
+    margin-top: 16px;
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  @media (max-width: 768px) {
+    .top-section {
+      flex-direction: column;
+    }
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .App {
+    flex-direction: column;
+  }
+  body {
+    width: 100%;
+  }
+
+  .top-section {
+    width: 100%;
+    margin-top: 100px;
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    overflow: hidden;
+  }
+
+  @media (max-width: 768px) {
+    .top-section {
+      flex-direction: column;
+    }
+  }
+}
