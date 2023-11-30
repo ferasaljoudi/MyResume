@@ -1,5 +1,5 @@
 # My Resume
-This project is an interactive online resume created using React, Bootstrap, and Chakra UI. It showcases my skills, experiences, and projects in a dynamic and user-friendly format. The resume is deployed on GitHub Pages for easy accessibility.
+This project is an interactive online <a href="https://ferasaljoudi.github.io/MyResume/" title="Feras Resume">Resume</a> created using React, Bootstrap, and Chakra UI. It showcases my skills, experiences, and projects in a dynamic and user-friendly format. The resume is deployed on GitHub Pages for easy accessibility.
 
 
 Features:
@@ -16,15 +16,6 @@ Technologies Used:
 - GitHub Pages: For hosting the resume online.
 
 
-<style>
-    .style {
-        text-decoration: underline;
-    }
-    .style:hover {
-        color: pink !important;
-    }
-</style>
-
-### <a href="https://ferasaljoudi.github.io/MyResume/" title="Feras Resume" class="style">My Resume</a>
+### <a href="https://ferasaljoudi.github.io/MyResume/" title="Feras Resume" style="text-decoration: underline;">My Resume</a>
 
 
