@@ -6,7 +6,7 @@ Features:
 -
 - Responsive Design: Utilizes Bootstrap and Chakra UI for a responsive layout that adapts to various screen sizes, ensuring a seamless experience on desktops, tablets, and smartphones.
 - Interactive Elements: Incorporates interactive components such as modals, dropdowns, and hover effects to enhance user engagement.
-- FDynamic Content: React's state management is used to dynamically update content, offering a more interactive user experience than a traditional static resume.
+- Dynamic Content: React's state management is used to dynamically update content, offering a more interactive user experience than a traditional static resume.
 
 Technologies Used:
 -
