@@ -24,8 +24,7 @@ function Header() {
           <hr></hr>
           <p><MdEmail id='MdEmail'/> : feras.aljoudi@gmail.com</p>
           <p><BsFillTelephoneForwardFill id='BsFillTelephoneForwardFill'/> : (306)209-1033</p>
-          <p><FaHome id='FaHome'/> : 201-1281 McEachern Dr.</p>
-          <p>Regina, Sk S4X 0N3</p>
+          <p><FaHome id='FaHome'/> : Regina, Sk. Canada</p>
           {/* <hr></hr> */}
           <p><AiOutlineGithub id='AiOutlineGithub'/>
             <a href="https://github.com/ferasaljoudi" target="_blank" rel="noopener noreferrer" style={{ marginRight: '15px' }}>GitHub</a>
